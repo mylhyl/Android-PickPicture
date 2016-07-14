@@ -1,5 +1,5 @@
 # Android-PickPicture
-读取系统相册图片工具类
+读取系统相册图片工具类，此库没有UI层，是考虑到每个项目的UI各有千秋，所以不打算加入UI部分，如有需要可[Issues](https://github.com/mylhyl/Android-PickPicture/issues)或加入QQ群：435173211 提出意见
 
 #引用
 
